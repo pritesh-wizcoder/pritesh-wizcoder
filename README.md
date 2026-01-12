@@ -1,118 +1,248 @@
-# Hi there, I'm Pritesh! 👋
+# 🎮 Welcome to My Digital Universe
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6CE3F7&center=true&vCenter=true&width=940&lines=Frontend+Developer+%F0%9F%92%BB;Three.js+%26+WebGL+Enthusiast+%F0%9F%8E%AE;Building+Immersive+Web+Experiences+%E2%9C%A8)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pritesh-wizcoder&color=6CE3F7&style=for-the-badge)
+```ascii
+    ╔═══════════════════════════════════════════════════════════╗
+    ║                                                           ║
+    ║     ██████╗ ██████╗ ██╗████████╗███████╗███████╗██╗  ██╗ ║
+    ║     ██╔══██╗██╔══██╗██║╚══██╔══╝██╔════╝██╔════╝██║  ██║ ║
+    ║     ██████╔╝██████╔╝██║   ██║   █████╗  ███████╗███████║ ║
+    ║     ██╔═══╝ ██╔══██╗██║   ██║   ██╔══╝  ╚════██║██╔══██║ ║
+    ║     ██║     ██║  ██║██║   ██║   ███████╗███████║██║  ██║ ║
+    ║     ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝╚══════╝╚═╝  ╚═╝ ║
+    ║                                                           ║
+    ║          🌌 Frontend Architect | 3D Web Sorcerer 🎨       ║
+    ╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://user-images.githubusercontent.com/placeholder-for-your-3d-banner.gif" width="100%" alt="3D Animation Banner"/>
+
+### 🔮 Transforming imagination into interactive reality, one vertex at a time
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=const+developer+%3D+%7B;++craft%3A+'Three.js+%26+WebGL'+%F0%9F%9A%80;++mission%3A+'Push+the+web+beyond+2D'+%F0%9F%8C%90;%7D%3B)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧬 DNA Code
 
-- 🎨 Frontend Developer specializing in **interactive 3D web experiences**
-- 🌐 Passionate about **Three.js**, **WebGL**, and modern web technologies
-- 🔭 Currently working on immersive web applications and creative coding
-- 🌱 Continuously learning advanced **shader programming** and **3D optimization**
-- ⚡ Fun fact: I turn creative ideas into mind-blowing 3D experiences!
+```javascript
+class PriteshWizcoder {
+  constructor() {
+    this.role = "Frontend Architect & 3D Web Engineer";
+    this.location = "Ahmedabad, Gujarat, IN 🇮🇳";
+    this.workstation = "VS Code + Blender + Coffee ☕";
+    this.currentFocus = ["WebGL Shaders", "R3F Ecosystem", "Performance Optimization"];
+  }
+
+  get dailyRoutine() {
+    return [
+      "🌅 Coffee.brew()",
+      "💻 Code.write()",
+      "🎨 ThreeJS.experiment()",
+      "🔥 GitHub.commit()",
+      "🌙 Learning.never.stops()"
+    ];
+  }
+
+  get superPowers() {
+    return {
+      frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+      dimension3D: ["Three.js", "React Three Fiber", "WebGL", "GLSL Shaders"],
+      animation: ["GSAP", "Framer Motion", "Lottie"],
+      tools: ["Blender", "Spline", "Figma", "Git"],
+      currentlyLearning: "Advanced particle systems & Custom shaders 🎆"
+    };
+  }
+
+  deployMagic() {
+    return "Pixel Perfect UI + Immersive 3D = 🚀";
+  }
+}
+
+const pritesh = new PriteshWizcoder();
+console.log(pritesh.deployMagic());
+// Output: "Pixel Perfect UI + Immersive 3D = 🚀"
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🎯 Mission Control
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-### 3D & Graphics
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+### 🔭 Current Expedition
+```diff
++ Building next-gen 3D product configurators
++ Exploring procedural geometry generation
++ Optimizing WebGL performance for mobile
+! Creating mind-bending shader effects
+```
 
-### Styling & UI
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+</td>
+<td width="50%">
 
-### Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🌱 Learning Path
+```yaml
+mastering:
+  - Advanced GLSL Shaders
+  - Physics engines (Cannon.js/Rapier)
+  - WebXR & Metaverse tech
+  - Optimized 3D asset pipelines
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Arsenal
 
 <div align="center">
-  
-![Pritesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pritesh-wizcoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE3F7&icon_color=6CE3F7&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh-wizcoder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE3F7&text_color=FFFFFF)
+### ⚔️ Core Weapons
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pritesh-wizcoder&theme=tokyonight&hide_border=true&background=0D1117&ring=6CE3F7&fire=6CE3F7&currStreakLabel=6CE3F7)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,vite,webpack&theme=dark" />
+
+### 🎨 3D & Animation Powers
+
+<img src="https://skillicons.dev/icons?i=threejs,blender,figma,ae,ps&theme=dark" />
+
+### 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,bash,linux&theme=dark" />
+
+</div>
+
+<details>
+<summary>📦 <b>Full Tech Stack (Click to expand)</b></summary>
+
+<br/>
+
+**Frontend Frameworks & Libraries**
+- ⚛️ React.js | Next.js | React Three Fiber
+- 🎭 TypeScript | JavaScript ES6+
+- 🎨 Tailwind CSS | Styled Components | SASS/SCSS
+- 🔄 Redux | Zustand | React Query
+
+**3D & Graphics**
+- 🎮 Three.js | WebGL | GLSL Shaders
+- 🌟 GSAP | Framer Motion | Anime.js
+- 🎯 Cannon.js | Rapier (Physics)
+- 🔮 React Spring | Lottie Animations
+
+**Design & 3D Tools**
+- 🎨 Figma | Adobe XD
+- 🧊 Blender | Spline
+- 🖼️ Photoshop | Illustrator
+
+**Dev Tools & Workflow**
+- 🔧 Git | GitHub | GitHub Actions
+- 📦 npm | Yarn | pnpm
+- ⚡ Vite | Webpack | Turbopack
+- 🧪 Jest | Vitest | Cypress
+
+</details>
+
+---
+
+## 📊 Battle Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pritesh-wizcoder&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF&ring_color=00F7FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritesh-wizcoder&theme=radical&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6B00&currStreakLabel=00F7FF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=888888" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritesh-wizcoder&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=pritesh-wizcoder&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievement Vault
 
 <div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=pritesh-wizcoder&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=pritesh-wizcoder&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
 ---
 
-## 🎨 Featured Projects
+## 🎨 Portfolio Showcase
 
 <div align="center">
 
-[![Car GLB](https://github-readme-stats.vercel.app/api/pin/?username=pritesh-wizcoder&repo=car-glb&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6CE3F7&icon_color=6CE3F7)](https://github.com/pritesh-wizcoder/car-glb)
+### 🌟 Featured Creations
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+[![Car GLB](https://github-readme-stats.vercel.app/api/pin/?username=pritesh-wizcoder&repo=car-glb&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/pritesh-wizcoder/car-glb)
+
+**3D Car Configurator**
+`Three.js` `WebGL` `Interactive`
+
+</td>
+<td width="50%" align="center">
+
+<!-- Add your second project here -->
+**Coming Soon** 🚧
+*Next mind-blowing project*
+`React` `R3F` `Shaders`
+
+</td>
+</tr>
+</table>
+
+### 🎯 Live Experiments
+
+> 🔬 Check out my **[CodePen](YOUR_CODEPEN_URL)** for interactive 3D experiments
+> 
+> 🎮 Explore demos on **[CodeSandbox](YOUR_CODESANDBOX_URL)**
 
 </div>
 
-> 🚧 More amazing projects coming soon! Stay tuned...
-
 ---
 
-## 📈 Contribution Graph
+## 💡 Code Philosophy
 
 <div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritesh-wizcoder&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6CE3F7&line=6CE3F7&point=FFFFFF)
+
+```
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  "Code is poetry, Three.js is the canvas,                 ║
+║   and imagination is the only limit."                     ║
+║                                                            ║
+║                                          - Pritesh 🎨      ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
----
+### 🎯 Development Mantras
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritesh@wizcoder.com)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](YOUR_CODEPEN_URL)
-
-</div>
+- 🚀 **Performance First** - Every frame counts in 3D
+- 🎨 **User Experience** - Beauty meets functionality
+- 📱 **Responsive Design** - From mobile to 8K displays
+- ♿ **Accessibility** - Inclusive experiences for all
+- 🧪 **Continuous Learning** - The web evolves, so do I
 
 ---
 
+## 📈 Contribution Heatmap
+
 <div align="center">
 
-### 💡 "Creating the web, one pixel at a time, in 3D!" 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pritesh-wizcoder&custom_title=Pritesh's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6B00&point=FFFFFF&area_color=00F7FF&area=true&theme=github-dark)
 
 ![Snake animation](https://raw.githubusercontent.com/pritesh-wizcoder/pritesh-wizcoder/output/github-contribution-grid-snake-dark.svg)
 
@@ -120,10 +250,83 @@
 
 ---
 
-<div align="center">
-  
-**⭐️ From [pritesh-wizcoder](https://github.com/pritesh-wizcoder)**
+## 🌐 Connect & Collaborate
 
-*If you find my work interesting, don't forget to star ⭐ my repositories!*
+<div align="center">
+
+### 📡 Transmission Channels
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=00F7FF)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pritesh@wizcoder.com)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](YOUR_CODEPEN_URL)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](YOUR_DEVTO_URL)
+
+### 💬 Let's Build Something Amazing!
+
+```typescript
+const collaborate = async () => {
+  if (you.have("cool_idea") && i.have("skills")) {
+    return await createAwesomeProject();
+  }
+};
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=pritesh-wizcoder&color=00F7FF&style=for-the-badge&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/pritesh-wizcoder?label=Followers&style=for-the-badge&color=00F7FF&labelColor=0D1117)
+![Stars](https://img.shields.io/github/stars/pritesh-wizcoder?label=Stars&style=for-the-badge&color=00F7FF&labelColor=0D1117)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎮 Fun Facts About Me
+
+```javascript
+const funFacts = {
+  favoriteShortcut: "Ctrl + Z (because we all make mistakes)",
+  debuggingStyle: "console.log() everything until it works",
+  coffeeLevel: "Dangerously high ☕☕☕",
+  dreamProject: "Building the Matrix in WebGL",
+  superpower: "Making divs do the impossible",
+  motto: "If it doesn't move, add Three.js to it! 🎨"
+};
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Support My Work
+
+If you find my projects helpful, consider:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](YOUR_BUYMEACOFFEE_URL)
+[![Sponsor](https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/pritesh-wizcoder)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════╗
+║                                                               ║
+║                  ⭐ Star my repos if you like them!           ║
+║                  🔔 Follow for more 3D magic!                 ║
+║                  💡 Open to collaboration & opportunities!    ║
+║                                                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+**Made with 💙 and Three.js by [Pritesh Wizcoder](https://github.com/pritesh-wizcoder)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=20" width="100%"/>
 
 </div>
